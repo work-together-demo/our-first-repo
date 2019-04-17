@@ -1,3 +1,3 @@
-# our-first-repo \n
+# our-first-repo
 Look, a readme!
 
